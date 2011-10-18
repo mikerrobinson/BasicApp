@@ -1,4 +1,5 @@
 BasicApp::Application.routes.draw do
+  mount BasicEngine::Engine => "/BasicEngine"
   resources :contacts
 
   # The priority is based upon order of creation:

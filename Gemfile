@@ -7,6 +7,8 @@ gem 'rails', '3.1.1'
 
 gem 'sqlite3'
 
+#gem 'BasicEngine', :path => '/Users/mrobins/projects/BasicEngine'
+gem 'BasicEngine', :git => 'git@github.com:mikerrobinson/BasicEngine.git'
 
 # Gems used only for assets and not required
 # in production environments by default.
