@@ -1,6 +1,5 @@
-GIT
-  remote: git@github.com:mikerrobinson/BasicEngine.git
-  revision: 907598ac27680f4bc63259ee711542fc10fca992
+PATH
+  remote: vendor/private_gems/BasicEngine-0.0.1
   specs:
     BasicEngine (0.0.1)
       rails (~> 3.1.1)
